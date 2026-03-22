@@ -32,3 +32,7 @@ you would able to prompt something for AI to do in host computer. or better, you
 2. run client python file (accusing you have config stuff already set up)
 3. prompt thing or blank prompt
 4. profit *(poorly)*
+
+## extra
+
+it will puke a folder called "frames" which will have png file of screenshot -> this is what the AI will see!!!
