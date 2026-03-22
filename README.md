@@ -20,6 +20,10 @@ and you would able to run "clientcloudai.py" or "clientlocalai.py" of your choic
 
 ### YOU HAVE TO EDIT CONFIG STUFF IN "clientcloudai.py" or "clientlocalai.py" BLAH!!!!!
 
+OH also you have to USE LLM/AI model that was able do vision stuff, qwen3.5 is good enough, ministral is pretty good too
+
+you cant use regular LLM/AI model
+
 # How connect
 
 First, you have to get the host computer's IP (or local IP) for VNC connection.
