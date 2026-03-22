@@ -18,7 +18,7 @@ and you would able to run "clientcloudai.py" or "clientlocalai.py" of your choic
 
 ### YOU HAVE TO EDIT CONFIG STUFF IN "clientcloudai.py" or "clientlocalai.py" BLAH!!!!!
 
-# How connect + control
+# How connect
 
 First, you have to get the host computer's IP (or local IP) for VNC connection.
 
