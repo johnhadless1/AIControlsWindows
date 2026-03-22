@@ -4,6 +4,7 @@ uses the cloud / local AI model then let them connect into Windows computer (VNC
 ### warning: this isnt 100% perfect best method for AI to use windows computer, but it just works.
 
 _(note AI models will control Windows computer like drunk person who dont know how computer works)_
+
 _(technically linux or macos may work but idk if it would work though, windows is only works and tested)_
 
 # Setting up
