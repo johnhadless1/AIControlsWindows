@@ -2,6 +2,7 @@
 uses the cloud / local AI model then let them connect into Windows computer (VNC) then get (torture) them to use it
 
 ### warning: this isnt 100% perfect best method for AI to use windows computer, but it just works.
+### plus, this was been made by AI (Preplexity), vibecoded.
 
 _(note AI models will control Windows computer like drunk person who dont know how computer works)_
 
